@@ -1,4 +1,4 @@
-package goarea
+package main
 
 // Pi é uma proporção numérica definida pela relação entre
 // o perímetro de uma circunferência e seu diâmetro
